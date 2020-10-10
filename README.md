@@ -7,3 +7,4 @@
 - [hospitals.netlify.app](https://hospitals.netlify.app) - Australian hospital ranking by Google reviews
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minho42&hide_title=true&hide_rank=true&hide_border=true&show_icons=true&include_all_commits=true&hide=commits&icon_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
