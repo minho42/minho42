@@ -5,4 +5,4 @@
 - 2020 [hospitals.netlify.app](https://hospitals.netlify.app) - Australian hospitals ranked by Google reviews
 - 2020 [sideprojectlist.co](https://sideprojectlist.co) - A list of awesome personal side projects
 - 2021 [nqsratings.com](https://nqsratings.com) - Childcare National Quality Standard ratings - NSW, Australia
-- 2021 [Medical abbreviations - web](https://abbrs.netlify.app)
+- 2021 [abbrs.netlify.app](https://abbrs.netlify.app) - Medical abbreviations - web
