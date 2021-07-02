@@ -1,6 +1,5 @@
 # Side projects
 
-## Active
 - 2020 [audkrw.com](https://audkrw.com) - AUD → KRW money transfer company comparison
 - 2020 [hospitals-aus.netlify.app](https://hospitals-aus.netlify.app) - Hospitals ranked by Google reviews, Australia
 - 2021 [nqsratings.com](https://nqsratings.com) - Childcare ratings - NSW, Australia
